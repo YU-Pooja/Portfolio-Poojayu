@@ -1,0 +1,11 @@
+[
+  {
+    "role": "Software Engineering",
+    "organisation": "Dish Network Technologies",
+    "startDate": "Oct, 2021",
+    "endDate": "Present",
+    "experiences": ["Worked on building multiple dashboards using MERN , JAVA SPRINGBOOT", 
+    "Collaborated with senior developers to develop web applications using React.js, Node.js,"],
+    "imageSrc": "history/dishLogo.png"
+  }
+]
