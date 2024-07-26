@@ -115,4 +115,173 @@
   .content {
     align-items: center;
   }
+
+  /* contact setup */
+  .contactcontainer {
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .contactaboutItems {
+    margin-top: 29px;
+  }
+  .contactaboutItem {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+}
+
+/* contact css for full screen */
+.contactcontainer {
+  position: relative;
+  background-color: rgba(16, 19, 21, 0.6);
+  border-radius: 15px;
+  /* padding: 73px; */
+  margin-top: 40px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.contactaboutItems {
+  color: var(--color-text);
+  display: flex;
+  justify-content: space-around;
+  /* flex-direction: column; */
+  /* gap: 50px; */
+}
+.contactaboutItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  list-style: none;
+  padding: 0px 5px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(165, 215, 232, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.contactaboutItem:hover {
+  background-size: 100% 100%;
+}
+
+/* Tootip for mail */
+.contactaboutItem .mailtooltiptext {
+  visibility: hidden;
+  width: 180px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  margin-bottom: 90px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+}
+.contactaboutItem .mailtooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+}
+.contactaboutItem:hover .mailtooltiptext{
+  visibility: visible;
+}
+
+/* tooltip for the linkedIn */
+.contactaboutItem .linkedintooltiptext {
+  visibility: hidden;
+  width: 180px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  margin-bottom: 90px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+}
+.contactaboutItem .linkedintooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+}
+.contactaboutItem:hover .linkedintooltiptext{
+  visibility: visible;
+}
+
+/* tooltip for the git hub */
+.contactaboutItem .gittooltiptext {
+  visibility: hidden;
+  width: 180px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  margin-bottom: 90px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+  
+}
+
+.contactaboutItem .gittooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+}
+
+.contactaboutItem:hover .gittooltiptext{
+  visibility: visible;
+}
+
+
+.contactaboutItem h3 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.contactaboutItem a {
+  font-size: 25px;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+button .copyButton{
+  background-color: transparent;
+  height: 10px;
+  width: 30px;
+
+}
+
+img.copyimg{
+  height: 10px;
+ width: 30px;
 }
