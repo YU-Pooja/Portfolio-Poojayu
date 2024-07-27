@@ -14,7 +14,7 @@
     "description": "Impletemented a variety of entertainment genres fetched through APIs.",
     "skills": ["HTML","CSS","React"],
     "demo": "https://react-super-app-jgvm.vercel.app/",
-    "source": "https://github.com/BNSahana/super-app-using-react"
+    "source": "https://github.com/YU-Pooja/super-app-using-react"
   },
   {
     "title": "Rock Scissors Paper Game",
@@ -23,5 +23,13 @@
     "skills": ["HTML","CSS","React"],
     "demo": "https://stone-paper-seasor-game.vercel.app/",
     "source": "https://github.com/YU-Pooja/Stone-Paper-Seasor-GAME"
+  },
+  {
+    "title": "TO-DO-APP",
+    "imageSrc": "projects/RSP.png",
+    "description": "App to Maintain the TO-DO list add and Inset can be done, project Is build by using Advanced REACT REdUX",
+    "skills": ["HTML","CSS","React"],
+    "demo": "https://todoapp-omega-amber.vercel.app/",
+    "source": "https://github.com/YU-Pooja/TODOAPP"
   }
 ]

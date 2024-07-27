@@ -26,5 +26,47 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },{
+    "title": "bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },{
+    "title": "TailwindCSS",
+    "imageSrc": "skills/TailwindCSS.png"
+  },{
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },{
+    "title": "Router",
+    "imageSrc": "skills/react router.png"
+  },{
+    "title": "Express.JS",
+    "imageSrc": "skills/expressJS.png"
+  },{
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },{
+    "title": "GITHUB",
+    "imageSrc": "skills/github.png"
+  },{
+    "title": "GITAB",
+    "imageSrc": "skills/gitlab.png"
+  },{
+    "title": "JIRA",
+    "imageSrc": "skills/jira.png"
+  },{
+    "title": "CICD",
+    "imageSrc": "skills/cicd.png"
+  },{
+    "title": "Rally",
+    "imageSrc": "skills/rally.png"
+  },{
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.png"
+  },{
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },{
+    "title": "logzi.IO",
+    "imageSrc": "skills/logz.io.png"
   }
 ]
