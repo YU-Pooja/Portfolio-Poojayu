@@ -26,7 +26,7 @@
   },
   {
     "title": "TO-DO-APP",
-    "imageSrc": "projects/RSP.png",
+    "imageSrc": "projects/todo.png",
     "description": "App to Maintain the TO-DO list add and Inset can be done, project Is build by using Advanced REACT REdUX",
     "skills": ["HTML","CSS","React"],
     "demo": "https://todoapp-omega-amber.vercel.app/",
