@@ -44,7 +44,7 @@ export const Hero = () => {
           <li className={styles.contactaboutItem}>
             <img src={getImageUrl("contact/emailIcon.png")} title="sakdb" alt="Email icon" />
             <a href="mailto:pooja2000yu@gmail.com">pooja2000yu@gmail.com  &nbsp;</a>
-            <button className="copyButton" 
+            <button className={styles.copyButton} 
             onClick = {async () => {
               await navigator.clipboard.writeText('https://github.com/YU-Pooja')
               setcopiedstate('copied')
