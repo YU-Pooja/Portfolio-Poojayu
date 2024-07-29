@@ -43,7 +43,7 @@
     "imageSrc": "skills/expressJS.png"
   },{
     "title": "Jenkins",
-    "imageSrc": "skills/jenkins.png"
+    "imageSrc": "skills/Jenkins.png"
   },{
     "title": "GITHUB",
     "imageSrc": "skills/github.png"
@@ -67,6 +67,6 @@
     "imageSrc": "skills/postman.png"
   },{
     "title": "logzi.IO",
-    "imageSrc": "skills/logz.io.png"
+    "imageSrc": "skills/logzi.io.png"
   }
 ]
