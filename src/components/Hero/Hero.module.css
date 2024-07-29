@@ -108,6 +108,9 @@
 }
 
 @media screen and (max-width: 830px) {
+  .copyButton{
+    visibility:hide;
+  }
   .container {
     flex-direction: column-reverse;
   }
