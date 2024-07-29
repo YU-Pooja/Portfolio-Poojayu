@@ -148,8 +148,8 @@
   color: var(--color-text);
   display: flex;
   justify-content: space-around;
-  /* flex-direction: column; */
-  /* gap: 50px; */
+  flex-direction: column;
+  gap: 50px;
 }
 .contactaboutItem {
   display: flex;
