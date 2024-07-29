@@ -141,7 +141,8 @@
 
   .skills {
     width: 100%;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
     justify-content: center;
   }
 /* 
