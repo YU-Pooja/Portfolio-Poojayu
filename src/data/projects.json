@@ -3,7 +3,7 @@
     "title": "Task-Mager",
     "imageSrc": "projects/taskmanager.png",
     "description": "App to Maintain the Tasks with status,count,edit,delete",
-    "skills": ["React JS","Node JS","Relational DB","TailwindCSS","RESTFULL API],
+    "skills": ["React JS","Node JS","Relational DB","TailwindCSS","RESTFULL API"],
     "demo": "https://task-manager/",
     "source": "https://github.com/YU-Pooja/Task-Manage"
   },
