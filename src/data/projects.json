@@ -9,7 +9,7 @@
   },
   {
     "title": "Pocket Notes App",
-    "imageSrc": "projects/notes-app.png",
+    "imageSrc": "projects/pocketNote.png",
     "description": "Developed Notes Application using React which performs CRUD",
     "skills": ["HTML","CSS","React"],
     "demo": "https://pocket-notes-murex.vercel.app/",
