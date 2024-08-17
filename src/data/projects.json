@@ -1,5 +1,13 @@
 [
   {
+    "title": "Task-Mager",
+    "imageSrc": "projects/taskmanager.png",
+    "description": "App to Maintain the TO-DO list add and Inset can be done, project Is build by using Advanced REACT REdUX",
+    "skills": ["React JS","Node JS","Relational DB","TailwindCSS"],
+    "demo": "https://todoapp-omega-amber.vercel.app/",
+    "source": "https://github.com/YU-Pooja/Task-Manage"
+  },
+  {
     "title": "Pocket Notes App",
     "imageSrc": "projects/notes-app.png",
     "description": "Developed Notes Application using React which performs CRUD",
