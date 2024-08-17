@@ -2,15 +2,15 @@
   {
     "title": "Task-Mager",
     "imageSrc": "projects/taskmanager.png",
-    "description": "App to Maintain the Tasks status,create,count,edit, delete",
-    "skills": ["React JS","Node JS","Relational DB","TailwindCSS","RESTAPI"],
+    "description": "App to Maintain the Tasks status,count,edit, delete.",
+    "skills": ["React JS","Node JS","Relational DB","Tailwind","RESTAPI"],
     "demo": "https://task-manager/",
     "source": "https://github.com/YU-Pooja/Task-Manage"
   },
   {
     "title": "Pocket Notes App",
-    "imageSrc": "projects/pocketNote.png",
-    "description": "Developed Notes Application using React which performs CRUD",
+    "imageSrc": "projects/pocketNoteHomeScreen.png",
+    "description": "Developed Notes Application using React which performs CRUD.",
     "skills": ["HTML","CSS","React"],
     "demo": "https://pocket-notes-murex.vercel.app/",
     "source": "https://github.com/YU-Pooja/Pocket-Notes/tree/master"
@@ -18,7 +18,7 @@
   ,
   {
     "title": "Super App",
-    "imageSrc": "projects/super-app.png",
+    "imageSrc": "projects/superapp.png",
     "description": "Impletemented a variety of entertainment genres fetched through APIs.",
     "skills": ["HTML","CSS","React"],
     "demo": "https://react-super-app-jgvm.vercel.app/",
@@ -26,8 +26,8 @@
   },
   {
     "title": "Rock Scissors Paper Game",
-    "imageSrc": "projects/RSP.png",
-    "description": "Implemented game logic for player and computer selections using React",
+    "imageSrc": "projects/StonePaperApp.png",
+    "description": "Implemented game logic for player and computer selections using React.",
     "skills": ["HTML","CSS","React"],
     "demo": "https://stone-paper-seasor-game.vercel.app/",
     "source": "https://github.com/YU-Pooja/Stone-Paper-Seasor-GAME"
@@ -35,7 +35,7 @@
   {
     "title": "TO-DO-APP",
     "imageSrc": "projects/todo.png",
-    "description": "App to Maintain the TO-DO list add and Inset can be done, project Is build by using Advanced REACT REdUX",
+    "description": "App Is used to maintain To-do's, Build by using React REDUX.",
     "skills": ["HTML","CSS","Advanced React"],
     "demo": "https://todoapp-omega-amber.vercel.app/",
     "source": "https://github.com/YU-Pooja/TODOAPP"
