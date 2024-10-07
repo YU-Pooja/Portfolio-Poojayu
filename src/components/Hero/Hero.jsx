@@ -22,7 +22,7 @@ export const Hero = () => {
             <a href="#contact" className={styles.contactBtn}>
               Contact Me
             </a>
-            <a href="https://drive.google.com/file/d/1CygASq7p4wULjnCKUenYdwPJc08W3cd1/view?usp=drivesdk" className={styles.cvBtn}>
+            <a href="https://drive.google.com/file/d/1uqErfX75C6RduJyZVfveo_JoJ0mSsEZJ/view" className={styles.cvBtn}>
               Download CV
             </a>
           </div>
