@@ -7,5 +7,14 @@
     "experiences": ["Worked on building multiple dashboards using MERN , JAVA SPRINGBOOT", 
     "Collaborated with senior developers to develop web applications using React.js, Node.js,"],
     "imageSrc": "history/dishLogo.png"
+  },
+  {
+    "role": "Software Engineering II",
+    "organisation": "PowerSchool",
+    "startDate": "Dec, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on building multiple portals like STAFF, Student, Employee using MERN stack", 
+    "Worked flexibly with peers and contributed to all phases of the Software Development Life Cycle (SDLC)"],
+    "imageSrc": "history/dishLogo.png"
   }
 ]
