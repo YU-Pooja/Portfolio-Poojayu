@@ -3,9 +3,9 @@
     "role": "Software Engineering",
     "organisation": "Dish Network Technologies",
     "startDate": "Oct, 2021",
-    "endDate": "Present",
-    "experiences": ["Worked on building multiple dashboards using MERN , JAVA SPRINGBOOT", 
-    "Collaborated with senior developers to develop web applications using React.js, Node.js,"],
+    "endDate": "Dec, 2024",
+    "experiences": ["Worked on building multiple dashboards using MERN , JAVA SPRINGBOOT.", 
+    "Collaborated with senior developers to develop web applications using React.js, Node.js."],
     "imageSrc": "history/dishLogo.png"
   },
   {
@@ -13,8 +13,8 @@
     "organisation": "PowerSchool",
     "startDate": "Dec, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on building multiple portals like STAFF, Student, Employee using MERN stack", 
-    "Worked flexibly with peers and contributed to all phases of the Software Development Life Cycle (SDLC)"],
+    "experiences": ["Worked on building multiple portals like STAFF, Student, Employee using MERN stack.", 
+    "Worked flexibly with peers and contributed to all phases of the Software Development Life Cycle (SDLC)."],
     "imageSrc": "history/powerschoolLogo.png"
   }
 ]
