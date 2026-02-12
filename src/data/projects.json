@@ -1,9 +1,9 @@
 [
   {
     "title": "E-Comerse Sales-savee",
-    "imageSrc": "assets/projects/e-comerse.png",
-    "description": "Project enables browsing products, cart, and checkout",
-    "skills": ["Springboot","React JS","MySql DB","Bootstrap"],
+    "imageSrc": "projects/e-comerse.png",
+    "description": "Project enables browsing products, cart, checkout",
+    "skills": ["Springboot","React JS","MySql DB","Razorpay"],
     "demo": "https://github.com/YU-Pooja/Sales-save-E-comers-app/tree/main",
     "source": "https://github.com/YU-Pooja/Sales-save-E-comers-app/tree/main"
   },
