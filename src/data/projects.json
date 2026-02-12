@@ -1,10 +1,10 @@
 [
   {
     "title": "E-Comerse Sales-savee",
-    "imageSrc": "projects/taskmanager.png",
+    "imageSrc": "assets/projects/EComerseProject.jpeg",
     "description": "Project enables businesses to showcase products and allows consumers to browse, purchase, and securely pay for goods or services online",
     "skills": ["Springboot","React JS","MySql DB","Bootstrap","RESTAPI"],
-    "demo": "",
+    "demo": "https://github.com/YU-Pooja/Sales-save-E-comers-app/tree/main",
     "source": "https://github.com/YU-Pooja/Sales-save-E-comers-app/tree/main"
   },
   {
